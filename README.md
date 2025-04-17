@@ -6,11 +6,12 @@ Lengkapi bagian **11 TODO** yang tersedia.
 
 Setelah menyelesaikan semua TODO, perhatikan bahwa program ini masih memiliki banyak kekurangan dan rentan terhadap bug. Untuk latihan, perbaiki atau tambahkan fitur-fitur berikut:
 
-1. Validasi input: Tampilkan error atau minta input ulang jika input tidak valid menggunakan scanner.
-2. Pembuatan user: Jika salah satu field (seperti username, password, dll) kosong, minta input ulang atau tampilkan error.
-3. Pembuatan akun baru: Jika username sudah digunakan oleh salah satu User di ArrayList<User>, minta input ulang.
-4. Validasi password: Jika password kurang dari 8 karakter, minta input ulang.
-5. Fitur tambahan: Kembangkan fitur tambahan sesuai kreativitas masing-masing.
+1.	Input ulang atau tampilkan error saat input tidak tepat di semua bagian inputan dengan scanner
+2.	Saat pembuatan user, jika salah satu field seperti username, password, dll isinya kosong maka akan diminta input ulang atau bisa juga tampilkan error.
+3.	Handle saat membuat akun baru namun ternyata username sudah digunakan salah satu User yang ada di ArrayList<User>, maka akan diminta input ulang
+4.	Handle saat password < 8 karakter, maka akan diminta input ulang
+5.	Fitur tambahan, sesuai kreativitas masing-masing.
+
 
 ## Bagian 2: Tambahan
 
