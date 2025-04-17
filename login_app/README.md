@@ -1,0 +1,17 @@
+# Tugas Praktikum 4
+
+## Bagian 1: Penyempurnaan Program
+
+Lengkapi bagian **11 TODO** yang tersedia.
+
+Setelah menyelesaikan semua TODO, perhatikan bahwa program ini masih memiliki banyak kekurangan dan rentan terhadap bug. Untuk latihan, perbaiki atau tambahkan fitur-fitur berikut:
+
+1. Validasi input: Tampilkan error atau minta input ulang jika input tidak valid menggunakan scanner.
+2. Pembuatan user: Jika salah satu field (seperti username, password, dll) kosong, minta input ulang atau tampilkan error.
+3. Pembuatan akun baru: Jika username sudah digunakan oleh salah satu User di ArrayList<User>, minta input ulang.
+4. Validasi password: Jika password kurang dari 8 karakter, minta input ulang.
+5. Fitur tambahan: Kembangkan fitur tambahan sesuai kreativitas masing-masing.
+
+## Bagian 2: Tambahan
+
+Karena MATERI ini konsepnya lebih ke arah penerapan dan kreativitas, jadi untuk no 2 akan diberikan oleh asisten masing-masing saat asistensi. Tugasnya akan berupa live coding, atau bekerja ditempat dipandu oleh asisten masing-masing.
